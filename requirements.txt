@@ -1,0 +1,7 @@
+mysql-connector-python
+psycopg2
+pymongo
+requests
+boto3
+google-cloud-storage
+azure-storage-blob
